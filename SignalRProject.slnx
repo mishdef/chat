@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SignalRProject/SignalRProject.csproj" />
+  <Project Path="signalrreactfront/signalrreactfront.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
